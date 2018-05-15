@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Ad:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="200a8a32-66d0-46b8-b6cf-0c4bb977be8d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Ad$CrawlerMain.ic" NAME="CrawlerMain Coverage Results" MODIFIED="1523086364540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>crawler.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="Route.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/src/web/Route.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="971">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dispatcher-servlet.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ad.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ad.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/src/web/Stu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>newfile</find>
+      <find>price</find>
+      <find>normal</find>
+      <find>query</find>
+      <find>description</find>
+      <find>title</find>
+      <find>brand&quot;:</find>
+      <find>brand</find>
+      <find>brand&quot;:null</find>
+      <find>brand&quot;:&quot;&quot;</find>
+      <find>keyword</find>
+      <find>keywords</find>
+      <find>matchedAds</find>
+      <find>IndexBuilder</find>
+      <find>AdsCampaignManager</find>
+      <find>960</find>
+      <find>genericDaoHibernate</find>
+      <find>Campaign</find>
+      <find>AD</find>
+      <find>sun.xm</find>
+      <find>jsonpath</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/crawler/AmazonCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/crawler/CrawlerMain.java" />
+        <option value="$PROJECT_DIR$/src/main/src/crawler/CrawlerMain.java" />
+        <option value="$PROJECT_DIR$/src/main/src/services.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/service/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/service/Employee.java" />
+        <option value="$PROJECT_DIR$/services.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/service/ManageAD.java" />
+        <option value="$PROJECT_DIR$/src/main/src/service/ManageEmployee.java" />
+        <option value="$PROJECT_DIR$/src/main/src/crawler/AmazonCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/src/crawler/Deduper.java" />
+        <option value="$PROJECT_DIR$/src/main/src/service/HibernateConnector.java" />
+        <option value="$PROJECT_DIR$/src/main/src/ad/AdsAllocation.java" />
+        <option value="$PROJECT_DIR$/src/main/src/service/AdDao.java" />
+        <option value="$PROJECT_DIR$/src/main/src/ad/Ad.java" />
+        <option value="$PROJECT_DIR$/src/main/src/ad/QueryParser.java" />
+        <option value="$PROJECT_DIR$/src/main/src/ad/AdsFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/src/ad/Utility.java" />
+        <option value="$PROJECT_DIR$/src/main/src/ad/IndexBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/src/crawler/Ad.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/ad/AdsEngine.java" />
+        <option value="$PROJECT_DIR$/src/main/src/service/AdService.java" />
+        <option value="$PROJECT_DIR$/src/main/src/ad/AdsSelector.java" />
+        <option value="$PROJECT_DIR$/src/main/src/service/GenericDao.java" />
+        <option value="$PROJECT_DIR$/src/main/src/ad/AdsCampaignManager.java" />
+        <option value="$PROJECT_DIR$/src/main/src/service/GenericDaoHibernateImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/src/ad/Campaign.java" />
+        <option value="$PROJECT_DIR$/src/main/src/main/HelloWorldConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/homes.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/webn.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/HelloWorldConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/src/main/Route.java" />
+        <option value="$PROJECT_DIR$/src/main/src/main/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/services.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/services.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/src/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/src/main/controllers/Route.java" />
+        <option value="$PROJECT_DIR$/src/main/src/main/controllers/Stu.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/web/Route.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Ad.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Ad" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Ad" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="181" />
+    <option name="y" value="239" />
+    <option name="width" value="2818" />
+    <option name="height" value="1868" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ad" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/src/service" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="AmazonCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawler.AmazonCrawler" />
+      <module name="Ad" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CrawlerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crawler.CrawlerMain" />
+      <module name="Ad" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/src/main/src/crawler/rawQuery3.txt $PROJECT_DIR$/src/main/src/crawler/Ad.txt $PROJECT_DIR$/src/main/src/crawler/proxylist.csv $PROJECT_DIR$/src/main/src/crawler/logFile.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainApp" />
+      <module name="Ad" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.8" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Ad:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Ad" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="41253" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Ad:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.8" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Ad" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="41253" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApp" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="Application.AmazonCrawler" />
+      <item itemvalue="Application.CrawlerMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CrawlerMain" />
+        <item itemvalue="Application.AmazonCrawler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="200a8a32-66d0-46b8-b6cf-0c4bb977be8d" name="Default" comment="" />
+      <created>1523053581309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523053581309</updated>
+      <workItem from="1523053584303" duration="743000" />
+      <workItem from="1523054347933" duration="18851000" />
+      <workItem from="1523132576356" duration="14642000" />
+      <workItem from="1523227210598" duration="1791000" />
+      <workItem from="1523255299655" duration="599000" />
+      <workItem from="1523295190365" duration="10420000" />
+      <workItem from="1523382560718" duration="20843000" />
+      <workItem from="1524698356839" duration="511000" />
+      <workItem from="1524776907294" duration="2506000" />
+      <workItem from="1524858969142" duration="10511000" />
+      <workItem from="1524889916617" duration="13177000" />
+      <workItem from="1525550560132" duration="3972000" />
+      <workItem from="1525554558595" duration="6341000" />
+      <workItem from="1525563211132" duration="4357000" />
+      <workItem from="1525575577838" duration="59000" />
+      <workItem from="1525647230612" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="109460000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="181" y="239" width="2818" height="1868" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="9" weight="0.32988435" />
+      <window_info anchor="right" id="Maven Projects" order="9" sideWeight="0.4988345" visible="true" weight="0.3024105" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39985994" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3294903" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.30736458" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32927573" />
+      <window_info id="Persistence" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.252374" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5011655" side_tool="true" weight="0.2006774" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="REST Client" order="13" visible="true" weight="0.33779672" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3274498" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/Ad.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/crawler/AmazonCrawler.java" />
+    <entry file="file://$PROJECT_DIR$/target/classes/Hello.class" />
+    <entry file="jar://$USER_HOME$/Downloads/jdk-10/lib/src.zip!/java.desktop/javax/swing/Spring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10330">
+          <caret line="174" column="6" lean-forward="true" selection-start-line="174" selection-start-column="6" selection-end-line="174" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/Hello.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/crawler/proxylist.csv" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180130/json-20180130.jar!/org/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="385" column="84" lean-forward="true" selection-start-line="385" selection-start-column="84" selection-end-line="385" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.16.Final/hibernate-core-5.2.16.Final.jar!/org/hibernate/cfg/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/jdk-10/lib/src.zip!/java.base/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="498" selection-start-line="498" selection-end-line="498" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/service/Employee.java" />
+    <entry file="jar://$USER_HOME$/Downloads/jdk-10/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-295">
+          <caret line="176" column="64" lean-forward="true" selection-start-line="176" selection-start-column="64" selection-end-line="176" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/maven-spring:Ad:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>maven-spring:Ad:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="1456.967479674796" y="565.0">maven-spring:Ad:1.0-SNAPSHOT</node>
+            <node x="4107.592479674796" y="424.0">org.jsoup:jsoup:jar:1.11.2</node>
+            <node x="3844.592479674796" y="424.0">com.fasterxml.jackson.core:jackson-databind:jar:2.6.3</node>
+            <node x="3954.592479674796" y="303.0">com.fasterxml.jackson.core:jackson-databind:jar:2.6.3/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.0</node>
+            <node x="3742.592479674796" y="303.0">com.fasterxml.jackson.core:jackson-databind:jar:2.6.3/com.fasterxml.jackson.core:jackson-core:jar:2.6.3</node>
+            <node x="3505.5" y="424.0">org.springframework:spring-context:jar:5.0.5.RELEASE</node>
+            <node x="3472.092479674796" y="303.0">org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-aop:jar:5.0.5.RELEASE</node>
+            <node x="3525.592479674796" y="202.0">org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-beans:jar:5.0.5.RELEASE</node>
+            <node x="3467.342479674796" y="101.0">org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-core:jar:5.0.5.RELEASE</node>
+            <node x="3478.842479674796" y="0.0">org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-core:jar:5.0.5.RELEASE/org.springframework:spring-jcl:jar:5.0.5.RELEASE</node>
+            <node x="3256.592479674796" y="202.0">org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-expression:jar:5.0.5.RELEASE</node>
+            <node x="2749.902947154472" y="424.0">org.json:json:jar:20180130</node>
+            <node x="2030.592479674796" y="424.0">org.hibernate:hibernate-core:jar:5.2.16.Final</node>
+            <node x="1242.092479674796" y="303.0">org.hibernate:hibernate-core:jar:5.2.16.Final/org.jboss.logging:jboss-logging:jar:3.3.1.Final</node>
+            <node x="3087.092479674796" y="303.0">org.hibernate:hibernate-core:jar:5.2.16.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
+            <node x="2483.092479674796" y="303.0">org.hibernate:hibernate-core:jar:5.2.16.Final/org.javassist:javassist:jar:3.22.0-GA</node>
+            <node x="2354.092479674796" y="303.0">org.hibernate:hibernate-core:jar:5.2.16.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="1943.092479674796" y="303.0">org.hibernate:hibernate-core:jar:5.2.16.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.1.Final</node>
+            <node x="1795.092479674796" y="303.0">org.hibernate:hibernate-core:jar:5.2.16.Final/org.jboss:jandex:jar:2.0.3.Final</node>
+            <node x="1609.092479674796" y="303.0">org.hibernate:hibernate-core:jar:5.2.16.Final/com.fasterxml:classmate:jar:1.3.0</node>
+            <node x="1464.092479674796" y="303.0">org.hibernate:hibernate-core:jar:5.2.16.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="2652.092479674796" y="303.0">org.hibernate:hibernate-core:jar:5.2.16.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final</node>
+            <node x="2758.592479674796" y="202.0">org.hibernate:hibernate-core:jar:5.2.16.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="418.5924796747961" y="424.0">org.hibernate:hibernate-annotations:jar:3.5.6-Final</node>
+            <node x="226.46747967479587" y="303.0">org.hibernate:hibernate-annotations:jar:3.5.6-Final/org.hibernate:hibernate-core:jar:3.5.6-Final</node>
+            <node x="786.9999999999998" y="303.0">org.hibernate:hibernate-annotations:jar:3.5.6-Final/org.hibernate:hibernate-commons-annotations:jar:3.2.0.Final</node>
+            <node x="483.9999999999998" y="303.0">org.hibernate:hibernate-annotations:jar:3.5.6-Final/org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.0.Final</node>
+            <node x="587.7154471544716" y="202.0">org.hibernate:hibernate-annotations:jar:3.5.6-Final/org.slf4j:slf4j-api:jar:1.5.8</node>
+            <node x="1472.967479674796" y="424.0">mysql:mysql-connector-java:jar:5.1.6</node>
+            <node x="1311.967479674796" y="424.0">javax.xml.bind:jaxb-api:jar:2.3.0</node>
+            <node x="1135.967479674796" y="424.0">com.sun.xml.bind:jaxb-impl:jar:2.2.11</node>
+            <node x="950.9674796747961" y="424.0">javax.activation:activation:jar:1.1.1</node>
+            <node x="243.59247967479587" y="424.0">com.sun.xml.bind:jaxb-core:jar:2.2.11</node>
+            <node x="0.0" y="424.0">org.slf4j:slf4j-simple:jar:1.5.5</node>
+            <node x="19.5" y="303.0">org.slf4j:slf4j-simple:jar:1.5.5/org.slf4j:slf4j-api:jar:1.5.5</node>
+            <node x="360.0" y="424.0">org.apache.lucene:lucene-core:jar:5.0.0</node>
+            <node x="0.0" y="424.0">org.apache.lucene:lucene-analyzers-common:jar:4.0.0-BETA</node>
+            <node x="79.0" y="303.0">org.apache.lucene:lucene-analyzers-common:jar:4.0.0-BETA/org.apache.lucene:lucene-core:jar:4.0.0-BETA</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework:spring-context:jar:5.0.5.RELEASE" target="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-core:jar:5.0.5.RELEASE">
+              <point x="80.625" y="-25.5" />
+              <point x="3693.625" y="404.0" />
+              <point x="3732.092479674796" y="404.0" />
+              <point x="3732.092479674796" y="172.0" />
+              <point x="3623.092479674796" y="172.0" />
+              <point x="66.75" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="javax.activation:activation:jar:1.1.1">
+              <point x="-17.916666666666515" y="-25.5" />
+              <point x="1482.0508130081296" y="515.0" />
+              <point x="1033.467479674796" y="515.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.6.3" target="com.fasterxml.jackson.core:jackson-databind:jar:2.6.3/com.fasterxml.jackson.core:jackson-core:jar:2.6.3">
+              <point x="-60.75" y="-25.5" />
+              <point x="3905.342479674796" y="404.0" />
+              <point x="3838.592479674796" y="404.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="org.apache.lucene:lucene-analyzers-common:jar:4.0.0-BETA">
+              <point x="-39.92857142857156" y="-25.5" />
+              <point x="1930.8214285714287" y="555.0" />
+              <point x="170.0" y="555.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="org.apache.lucene:lucene-core:jar:5.0.0">
+              <point x="-33.78571428571422" y="-25.5" />
+              <point x="1936.964285714286" y="545.0" />
+              <point x="451.0" y="545.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.16.Final" target="org.hibernate:hibernate-core:jar:5.2.16.Final/org.jboss.logging:jboss-logging:jar:3.3.1.Final">
+              <point x="-96.0" y="-25.5" />
+              <point x="2042.592479674796" y="404.0" />
+              <point x="1343.092479674796" y="404.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-core:jar:5.0.5.RELEASE" target="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-core:jar:5.0.5.RELEASE/org.springframework:spring-jcl:jar:5.0.5.RELEASE">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-annotations:jar:3.5.6-Final" target="org.hibernate:hibernate-annotations:jar:3.5.6-Final/org.slf4j:slf4j-api:jar:1.5.8">
+              <point x="-37.75" y="-25.5" />
+              <point x="531.8424796747961" y="404.0" />
+              <point x="473.4999999999998" y="404.0" />
+              <point x="473.4999999999998" y="278.0" />
+              <point x="623.4654471544716" y="278.0" />
+              <point x="-35.75" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="com.sun.xml.bind:jaxb-impl:jar:2.2.11">
+              <point x="-10.75" y="-25.5" />
+              <point x="1489.217479674796" y="505.0" />
+              <point x="1213.967479674796" y="505.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-annotations:jar:3.5.6-Final" target="org.hibernate:hibernate-annotations:jar:3.5.6-Final/org.hibernate:hibernate-commons-annotations:jar:3.2.0.Final">
+              <point x="113.25" y="-25.5" />
+              <point x="682.8424796747961" y="404.0" />
+              <point x="994.4999999999998" y="404.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-beans:jar:5.0.5.RELEASE" target="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-core:jar:5.0.5.RELEASE">
+              <point x="0.0" y="-25.5" />
+              <point x="3623.592479674796" y="182.0" />
+              <point x="3578.592479674796" y="182.0" />
+              <point x="22.25" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="org.hibernate:hibernate-annotations:jar:3.5.6-Final">
+              <point x="-25.083333333333485" y="-25.5" />
+              <point x="1474.8841463414626" y="525.0" />
+              <point x="569.5924796747961" y="525.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-annotations:jar:3.5.6-Final/org.hibernate:hibernate-commons-annotations:jar:3.2.0.Final" target="org.hibernate:hibernate-annotations:jar:3.5.6-Final/org.slf4j:slf4j-api:jar:1.5.8">
+              <point x="0.0" y="-25.5" />
+              <point x="994.4999999999998" y="278.0" />
+              <point x="694.9654471544716" y="278.0" />
+              <point x="35.75" y="25.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-aop:jar:5.0.5.RELEASE" target="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-core:jar:5.0.5.RELEASE">
+              <point x="-43.0" y="-25.5" />
+              <point x="3515.092479674796" y="182.0" />
+              <point x="3534.092479674796" y="182.0" />
+              <point x="-22.25" y="25.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.5.RELEASE" target="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-aop:jar:5.0.5.RELEASE">
+              <point x="-26.875" y="-25.5" />
+              <point x="3586.125" y="404.0" />
+              <point x="3558.092479674796" y="404.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-annotations:jar:3.5.6-Final" target="org.hibernate:hibernate-annotations:jar:3.5.6-Final/org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.0.Final">
+              <point x="37.75" y="-25.5" />
+              <point x="607.3424796747961" y="404.0" />
+              <point x="625.4999999999998" y="404.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.16.Final" target="org.hibernate:hibernate-core:jar:5.2.16.Final/org.javassist:javassist:jar:3.22.0-GA">
+              <point x="48.0" y="-25.5" />
+              <point x="2186.592479674796" y="384.0" />
+              <point x="2557.592479674796" y="384.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.16.Final" target="org.hibernate:hibernate-core:jar:5.2.16.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.1.Final">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.16.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final" target="org.hibernate:hibernate-core:jar:5.2.16.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.6">
+              <point x="3.583333333333485" y="-25.5" />
+              <point x="1503.5508130081296" y="495.0" />
+              <point x="1617.467479674796" y="495.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.16.Final" target="org.hibernate:hibernate-core:jar:5.2.16.Final/dom4j:dom4j:jar:1.6.1">
+              <point x="-72.0" y="-25.5" />
+              <point x="2066.592479674796" y="394.0" />
+              <point x="1526.592479674796" y="394.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.6.3" target="com.fasterxml.jackson.core:jackson-databind:jar:2.6.3/com.fasterxml.jackson.core:jackson-annotations:jar:2.6.0">
+              <point x="60.75" y="-25.5" />
+              <point x="4026.842479674796" y="404.0" />
+              <point x="4093.592479674796" y="404.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="org.hibernate:hibernate-core:jar:5.2.16.Final">
+              <point x="10.75" y="-25.5" />
+              <point x="1510.717479674796" y="505.0" />
+              <point x="2138.592479674796" y="505.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.16.Final" target="org.hibernate:hibernate-core:jar:5.2.16.Final/org.jboss:jandex:jar:2.0.3.Final">
+              <point x="-24.0" y="-25.5" />
+              <point x="2114.592479674796" y="374.0" />
+              <point x="1859.092479674796" y="374.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-expression:jar:5.0.5.RELEASE" target="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-core:jar:5.0.5.RELEASE">
+              <point x="0.0" y="-25.5" />
+              <point x="3380.592479674796" y="182.0" />
+              <point x="3489.592479674796" y="182.0" />
+              <point x="-66.75" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="org.json:json:jar:20180130">
+              <point x="17.916666666666515" y="-25.5" />
+              <point x="1517.8841463414626" y="515.0" />
+              <point x="2800.402947154472" y="515.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-aop:jar:5.0.5.RELEASE" target="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-beans:jar:5.0.5.RELEASE">
+              <point x="43.0" y="-25.5" />
+              <point x="3601.092479674796" y="278.0" />
+              <point x="3574.592479674796" y="278.0" />
+              <point x="-49.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.16.Final" target="org.hibernate:hibernate-core:jar:5.2.16.Final/antlr:antlr:jar:2.7.7">
+              <point x="24.0" y="-25.5" />
+              <point x="2162.592479674796" y="374.0" />
+              <point x="2408.592479674796" y="374.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.16.Final" target="org.hibernate:hibernate-core:jar:5.2.16.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final">
+              <point x="72.0" y="-25.5" />
+              <point x="2210.592479674796" y="394.0" />
+              <point x="2859.592479674796" y="394.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="com.sun.xml.bind:jaxb-core:jar:2.2.11">
+              <point x="-32.25" y="-25.5" />
+              <point x="1467.717479674796" y="535.0" />
+              <point x="321.09247967479587" y="535.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-annotations:jar:3.5.6-Final" target="org.hibernate:hibernate-annotations:jar:3.5.6-Final/org.hibernate:hibernate-core:jar:3.5.6-Final">
+              <point x="-113.25" y="-25.5" />
+              <point x="456.3424796747961" y="404.0" />
+              <point x="334.46747967479587" y="404.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="javax.xml.bind:jaxb-api:jar:2.3.0">
+              <point x="-3.583333333333485" y="-25.5" />
+              <point x="1496.3841463414626" y="495.0" />
+              <point x="1382.467479674796" y="495.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.5.RELEASE" target="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-beans:jar:5.0.5.RELEASE">
+              <point x="26.875" y="-25.5" />
+              <point x="3639.875" y="404.0" />
+              <point x="3672.592479674796" y="404.0" />
+              <point x="49.0" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="org.slf4j:slf4j-simple:jar:1.5.5">
+              <point x="-39.416666666666515" y="-25.5" />
+              <point x="1460.5508130081296" y="545.0" />
+              <point x="91.0" y="545.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.16.Final" target="org.hibernate:hibernate-core:jar:5.2.16.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final">
+              <point x="96.0" y="-25.5" />
+              <point x="2234.592479674796" y="404.0" />
+              <point x="3228.592479674796" y="404.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.16.Final" target="org.hibernate:hibernate-core:jar:5.2.16.Final/com.fasterxml:classmate:jar:1.3.0">
+              <point x="-48.0" y="-25.5" />
+              <point x="2090.592479674796" y="384.0" />
+              <point x="1692.092479674796" y="384.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="org.springframework:spring-context:jar:5.0.5.RELEASE">
+              <point x="25.083333333333485" y="-25.5" />
+              <point x="1525.0508130081296" y="525.0" />
+              <point x="3613.0" y="525.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-databind:jar:2.6.3">
+              <point x="32.25" y="-25.5" />
+              <point x="1532.217479674796" y="535.0" />
+              <point x="3966.092479674796" y="535.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.slf4j:slf4j-simple:jar:1.5.5" target="org.slf4j:slf4j-simple:jar:1.5.5/org.slf4j:slf4j-api:jar:1.5.5">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:5.0.5.RELEASE" target="org.springframework:spring-context:jar:5.0.5.RELEASE/org.springframework:spring-expression:jar:5.0.5.RELEASE">
+              <point x="-80.625" y="-25.5" />
+              <point x="3532.375" y="404.0" />
+              <point x="3380.592479674796" y="404.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="org.apache.lucene:lucene-analyzers-common:jar:4.0.0-BETA" target="org.apache.lucene:lucene-analyzers-common:jar:4.0.0-BETA/org.apache.lucene:lucene-core:jar:4.0.0-BETA">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="maven-spring:Ad:1.0-SNAPSHOT" target="org.jsoup:jsoup:jar:1.11.2">
+              <point x="39.416666666666515" y="-25.5" />
+              <point x="1539.3841463414626" y="545.0" />
+              <point x="4165.092479674796" y="545.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.11286150952268986" x="2117.0" y="308.0" />
+          <SelectedNodes>
+            <node>maven-spring:Ad:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/Utility.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/QueryParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/AdsAllocation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/IndexBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/AdsCampaignManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/Campaign.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/Ad.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/crawler/Ad.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/AdsFilter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/AdsEngine.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/ad/AdsSelector.java" />
+    <entry file="jar://$USER_HOME$/Downloads/jdk-10/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15575">
+          <caret line="623" selection-start-line="623" selection-end-line="623" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/crawler/CrawlerMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/crawler/AmazonCrawler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/crawler/RawAd.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/HelloWorldConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/crawler/Deduper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/main/WebConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/homes.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/main/helloworld.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/MainApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/service/AdService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/service/AdDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/service/GenericDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/service/GenericDaoHibernateImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/service/HibernateConnector.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/services.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/web/Stu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ad.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/web/Route.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="971">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Ad:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Ad</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
