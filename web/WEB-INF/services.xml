@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:content="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+
+        <bean id="Ad" class="ad.Ad"></bean>
+
+
+
+
+        <bean id="AdSevice" class="service.AdService">
+            <property name="adDao">
+                <bean id="adDao" class="service.AdDao">
+                    <property name="hibernateConnector">
+                        <ref bean="hibernateConnector"/>
+                    </property>
+                </bean>
+            </property>
+        </bean>
+
+    <bean id = "AdsEngine" class="ad.AdsEngine">
+        <constructor-arg type = "java.lang.String" value = "/home/zhihao/Desktop/adserver/src/main/java/crawler/Ad.txt"/>
+        <constructor-arg type = "java.lang.String" value = "/home/zhihao/Desktop/adserver/src/main/java/data/budget.txt"/>
+        <constructor-arg type = "java.lang.String" value = "127.0.0.1"/>
+        <constructor-arg type = "int" value = "11211"/>
+        <constructor-arg ref="AdSevice"></constructor-arg>
+        <constructor-arg ref="CampaignDao"></constructor-arg>
+    </bean>
+
+
+
+    <bean id="CampaignDao" class="service.GenericDaoHibernateImpl">
+        <constructor-arg type="java.lang.Class" value="ad.Campaign"></constructor-arg>
+        <property name="sessionFactory">
+            <ref bean="hibernateConnector"/>
+        </property>
+    </bean>
+
+    <bean id="hibernateConnector" class="service.HibernateConnector">
+    </bean>
+
+    <bean id="Campaign" class="ad.Campaign"></bean>
+
+
+</beans>
